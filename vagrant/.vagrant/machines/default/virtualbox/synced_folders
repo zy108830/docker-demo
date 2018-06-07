@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/usr/local/var/www/zy108830/vagrant","disabled":false,"__vagrantfile":true,"owner":"root","group":"root"}}}
